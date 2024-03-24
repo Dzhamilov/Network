@@ -1,0 +1,14 @@
+C:\Users\Акбар\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Lesson_1.exe
+C:\Users\Акбар\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Lesson_1.deps.json
+C:\Users\Акбар\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Lesson_1.runtimeconfig.json
+C:\Users\Акбар\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Lesson_1.dll
+C:\Users\Акбар\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Lesson_1.pdb
+C:\Users\Акбар\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Акбар\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson_1.AssemblyInfoInputs.cache
+C:\Users\Акбар\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson_1.AssemblyInfo.cs
+C:\Users\Акбар\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\Акбар\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson_1.dll
+C:\Users\Акбар\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\refint\Lesson_1.dll
+C:\Users\Акбар\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson_1.pdb
+C:\Users\Акбар\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson_1.genruntimeconfig.cache
+C:\Users\Акбар\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\ref\Lesson_1.dll
